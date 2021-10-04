@@ -9,8 +9,7 @@
 https://www.kaggle.com/c/ajoudeepchallenge2021<br>
 kaggle 대회 링크
 
-## reference
-Reference
+## eference
 https://dacon.io/competitions/official/235697/overview/description <br>
 (dacon 참고한 대회)<br>
 https://blog.lunit.io/2017/08/08/deep-learning-is-robust-to-massive-label-noise/ <br>
