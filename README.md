@@ -9,17 +9,22 @@
 https://www.kaggle.com/c/ajoudeepchallenge2021<br>
 kaggle 대회 링크
 
-## eference
-https://dacon.io/competitions/official/235697/overview/description <br>
-(dacon 참고한 대회)<br>
-https://blog.lunit.io/2017/08/08/deep-learning-is-robust-to-massive-label-noise/ <br>
-(noise 데이터셋 관련 블로그 자)<br>
-https://link.springer.com/chapter/10.1007/978-3-030-58568-6_3 <br>
-(noise dataset 관련 논문)<br>
-https://github.com/facebookresearch/mixup-cifar10<br>
-(mix up code)<br>
-https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup/<br>
-(pytorch-cosine-annealing-with-warmup code)<br>
+## Reference
+https://dacon.io/competitions/official/235697/overview/description 
+(참고한 dacon 대회)
+https://blog.lunit.io/2017/08/08/deep-learning-is-robust-to-massive-label-noise/ 
+(noise 데이터셋 관련 블로그)
+https://link.springer.com/chapter/10.1007/978-3-030-58568-6_3 
+(noise dataset 관련 논문)
+https://github.com/facebookresearch/mixup-cifar10
+(mix up code)
+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup/
+(Pytorch cosineannealingwithwarmup code)
+https://www.kaggle.com/bminixhofer/deterministic-neural-networks-using-pytorch
+(Pytorch Seed everything) 
+https://arxiv.org/abs/1812.01187
+(Bag of tricks for image classification)
+
 
 ## Consideration
 MentorNet 사용했으면 좋았을 거 같다. 최신 augmentation 기법인 Mix up과 ensemble(soft voting)이 들어가있다. 대회를 진행하며 아직 부족한 나를 다시 돌아보게되었다. 별로 없을 기회이지만 군대 가기 전에 소중한 경험이다. 
