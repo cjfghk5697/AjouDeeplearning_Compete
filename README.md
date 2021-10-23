@@ -10,20 +10,20 @@ https://www.kaggle.com/c/ajoudeepchallenge2021<br>
 kaggle 대회 링크
 
 ## Reference
-https://dacon.io/competitions/official/235697/overview/description 
-(참고한 dacon 대회)
-https://blog.lunit.io/2017/08/08/deep-learning-is-robust-to-massive-label-noise/ 
-(noise 데이터셋 관련 블로그)
-https://link.springer.com/chapter/10.1007/978-3-030-58568-6_3 
-(noise dataset 관련 논문)
-https://github.com/facebookresearch/mixup-cifar10
-(mix up code)
-https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup/
-(Pytorch cosineannealingwithwarmup code)
-https://www.kaggle.com/bminixhofer/deterministic-neural-networks-using-pytorch
-(Pytorch Seed everything) 
-https://arxiv.org/abs/1812.01187
-(Bag of tricks for image classification)
+https://dacon.io/competitions/official/235697/overview/description <br>
+(참고한 dacon 대회)<br>
+https://blog.lunit.io/2017/08/08/deep-learning-is-robust-to-massive-label-noise/ <br>
+(noise 데이터셋 관련 블로그)<br>
+https://link.springer.com/chapter/10.1007/978-3-030-58568-6_3 <br>
+(noise dataset 관련 논문)<br>
+https://github.com/facebookresearch/mixup-cifar10<br>
+(mix up code)<br>
+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup/<br>
+(Pytorch cosineannealingwithwarmup code)<br>
+https://www.kaggle.com/bminixhofer/deterministic-neural-networks-using-pytorch<br>
+(Pytorch Seed everything) <br>
+https://arxiv.org/abs/1812.01187<br>
+(Bag of tricks for image classification)<br>
 
 
 ## Consideration
