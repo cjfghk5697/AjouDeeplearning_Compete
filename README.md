@@ -65,17 +65,10 @@ src/Train.ipynb 파일에서 경로 변경 후 사용한다. 여기에 있는 �
 ![화면 캡처 2021-10-01 011238](https://user-images.githubusercontent.com/80466735/135764913-3034f290-651d-4dc9-928b-d25f1c84f279.png)
 
 ## Reference
-https://dacon.io/competitions/official/235697/overview/description <br>
-(dacon)<br>
-https://blog.lunit.io/2017/08/08/deep-learning-is-robust-to-massive-label-noise/ <br>
-(Content about noise dataset)<br>
-https://link.springer.com/chapter/10.1007/978-3-030-58568-6_3 <br>
-(paper about noise dataset )<br>
-https://github.com/facebookresearch/mixup-cifar10<br>
-(mix up code)<br>
-https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup/<br>
-(Pytorch cosineannealingwithwarmup code)<br>
-https://www.kaggle.com/bminixhofer/deterministic-neural-networks-using-pytorch<br>
-(Pytorch Seed everything) <br>
-https://arxiv.org/abs/1812.01187<br>
-(Bag of tricks for image classification)<br>
+[dacon](https://dacon.io/competitions/official/235697/overview/description) <br>
+[Content about noise dataset](https://blog.lunit.io/2017/08/08/deep-learning-is-robust-to-massive-label-noise/) <br>
+[paper about noise dataset](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_3)<br>
+[mix up code](https://github.com/facebookresearch/mixup-cifar10)<br>
+[Pytorch cosineannealingwithwarmup code](https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup/)<br>
+[Pytorch Seed everything](https://www.kaggle.com/bminixhofer/deterministic-neural-networks-using-pytorch)<br>
+[Bag of tricks for image classification](https://arxiv.org/abs/1812.01187)
